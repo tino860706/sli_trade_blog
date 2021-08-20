@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="865d4e7d-ff47-40a2-affa-be4e7bd567bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/superlight.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/static/base/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/static/base/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/templates/base/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/templates/base/original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/CACHE/images/images/audiA4/1241456c1cc32bb9a1713d22888329af.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/CACHE/images/images/crysler/f02a6588464ad7b36691ad38479548ca.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/CACHE/images/images/dtec/d7ca8d0c02c5e0950ef6323ff208a27f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/CACHE/images/images/fortuner/cfd6dd313014787d65b1d40c8c226b98.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/CACHE/images/images/gti/7e0bc17e151ef84e1c8d489012ae968e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/CACHE/images/images/havaal/44c618746bf5460952a44ddcb2bbbaca.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/CACHE/images/images/hilux/0a93d9ca4627f9a9cc847687e30f05e6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/CACHE/images/images/merc2020/62d241bb3fff54a16acafcf395811a99.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/CACHE/images/images/range/db73930f0056b1b2e574dffed24feda7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/CACHE/images/images/toyota_landcruiser/dc534ab90346f1f227f56412b520d76c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/CACHE/images/images/wild/9f2bee41d53637d8512d6d14242b9ea4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/CACHE/images/images/xf_jaguar/667bc3b3342ae2574c2994c7ff4feac2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/audiA4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/crysler.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/dtec.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/fortuner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/gti.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/havaal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/hilux.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/merc2020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/range.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/toyota_landcruiser.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/wild.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/xf_jaguar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/migrations/0002_vehicle_description.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/migrations/0003_vehicle_slug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/migrations/0004_auto_20210815_1720.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/migrations/0005_auto_20210815_2121.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/migrations/0006_remove_vehicle_tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/migrations/0007_vehicle_tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/migrations/0008_auto_20210815_2241.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/migrations/0009_vehicle_tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/migrations/0010_auto_20210815_2248.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/migrations/0011_auto_20210815_2307.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/migrations/0012_vehicle_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/templates/myapp/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/templates/myapp/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/templates/myapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/base/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/base/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/base/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/base/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/base/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/base/static/base/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/base/static/base/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/base/templates/base/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/base/templates/base/original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/base/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/base/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/CACHE/images/images/audiA4/1241456c1cc32bb9a1713d22888329af.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/CACHE/images/images/crysler/f02a6588464ad7b36691ad38479548ca.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/CACHE/images/images/dtec/d7ca8d0c02c5e0950ef6323ff208a27f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/CACHE/images/images/fortuner/cfd6dd313014787d65b1d40c8c226b98.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/CACHE/images/images/gti/7e0bc17e151ef84e1c8d489012ae968e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/CACHE/images/images/havaal/44c618746bf5460952a44ddcb2bbbaca.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/CACHE/images/images/hilux/0a93d9ca4627f9a9cc847687e30f05e6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/CACHE/images/images/merc2020/62d241bb3fff54a16acafcf395811a99.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/CACHE/images/images/range/db73930f0056b1b2e574dffed24feda7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/CACHE/images/images/toyota_landcruiser/dc534ab90346f1f227f56412b520d76c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/CACHE/images/images/wild/9f2bee41d53637d8512d6d14242b9ea4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/CACHE/images/images/xf_jaguar/667bc3b3342ae2574c2994c7ff4feac2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/images/audiA4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/images/crysler.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/images/dtec.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/images/fortuner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/images/gti.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/images/havaal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/images/hilux.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/images/merc2020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/images/range.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/images/toyota_landcruiser.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/images/wild.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/media/images/xf_jaguar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/myapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/myapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/myapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/myapp/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/myapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/myapp/migrations/0002_vehicle_description.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/myapp/migrations/0003_vehicle_slug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/myapp/migrations/0004_auto_20210815_1720.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/myapp/migrations/0005_auto_20210815_2121.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/myapp/migrations/0006_remove_vehicle_tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/myapp/migrations/0007_vehicle_tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/myapp/migrations/0008_auto_20210815_2241.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/myapp/migrations/0009_vehicle_tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/myapp/migrations/0010_auto_20210815_2248.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/myapp/migrations/0011_auto_20210815_2307.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/myapp/migrations/0012_vehicle_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/myapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/myapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/myapp/templates/myapp/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/myapp/templates/myapp/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/myapp/templates/myapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/myapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/myapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/myapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/account_inactive.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/email/base_message.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/email/email_confirmation_message.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/email/email_confirmation_signup_message.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/email/email_confirmation_signup_subject.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/email/email_confirmation_subject.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/email/password_reset_key_message.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/email/password_reset_key_subject.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/email_confirm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/logout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/messages/cannot_delete_primary_email.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/messages/email_confirmation_sent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/messages/email_confirmed.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/messages/email_deleted.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/messages/logged_in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/messages/logged_out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/messages/password_changed.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/messages/password_set.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/messages/primary_email_set.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/messages/unverified_primary_email.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/password_change.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/password_reset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/password_reset_done.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/password_reset_from_key.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/password_reset_from_key_done.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/password_set.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/signup_closed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/snippets/already_logged_in.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/verification_sent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/allauth/account/verified_email_required.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/templates/form_snippet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/mysite/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/account_inactive.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/email/base_message.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/email/email_confirmation_message.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/email/email_confirmation_signup_message.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/email/email_confirmation_signup_subject.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/email/email_confirmation_subject.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/email/password_reset_key_message.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/email/password_reset_key_subject.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/email_confirm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/logout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/messages/cannot_delete_primary_email.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/messages/email_confirmation_sent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/messages/email_confirmed.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/messages/email_deleted.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/messages/logged_in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/messages/logged_out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/messages/password_changed.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/messages/password_set.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/messages/primary_email_set.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/messages/unverified_primary_email.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/password_change.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/password_reset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/password_reset_done.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/password_reset_from_key.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/password_reset_from_key_done.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/password_set.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/signup_closed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/snippets/already_logged_in.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/verification_sent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/allauth/account/verified_email_required.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/templates/form_snippet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/wsgi.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wzVqasMZYoD4zsSTGX4gMcowlu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/deployments" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\super\Desktop\superlight" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="865d4e7d-ff47-40a2-affa-be4e7bd567bf" name="Changes" comment="" />
+      <created>1629461595679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629461595679</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
